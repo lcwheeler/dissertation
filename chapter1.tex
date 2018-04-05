@@ -1,0 +1,384 @@
+\chapter{Introduction}
+
+\subsection{Evolution is the Driving Force of Biological Diversity}
+
+One of the most striking aspects of life is the vast diversity of
+forms and functions displayed by living things. Organisms are beautifully
+adapted to a broad range of environments and life styles; from bacteria
+that thrive in deep see thermal vents \citep{zierenberg_life_2000},
+to plants that live in high alpine meadows \citep{bliss_adaptations_1962},
+to exquisitely colorful poisonous frogs that roam the rainforest \citep{summers_evolution_2001}.
+With such diversity on display it is easy enough to forget that all
+organisms on Earth share a common ancestor in the distant past \citep{darwin_origin_1859,weiss_physiology_2016,glansdorff_last_2008,lane_how_2010}.
+Over unfathomable stretches of time, life has diversified from that
+common ancestor into the amazingly complex and dynamic biosphere that
+is familiar to us today. Perhaps the most incredible facet of this
+diversity is that it is produced via the stochastic process of evolution
+\citep{darwin_origin_1859,lewontin_genetic_1974,jacob_evolution_1977,woese_towards_1990,nei_molecular_1998}.
+How this random process generates the rich biology observed on Earth
+is the primary driving question of evolutionary biology. 
+
+Evolution occurs via the change of heritable traits over the course
+of many generations of organisms. The process acts on traits that
+are displayed in some way at the macroscopic, organismal level \citep{lewontin_genetic_1974,gillespie_population_1998,gillespie_molecular_1984,fisher_genetical_nodate,wright_evolution_1931}.
+However, at the heart of trait heritability are the genes that encode
+traits at the genetic level. The projection of underlying genetics
+into phenotypes is commonly referred to as the genotype-phenotype
+map \citep{fontana_shaping_1998,stadler_genotype-phenotype_2006}.
+Evolutionary processes such as natural selection and genetic drift
+drive the fixation of mutant genes that lead to new traits in populations
+\citep{gillespie_simple_1983,gillespie_molecular_1984,gillespie_population_1998,orr_population_2002}.
+Over time this fixation process can lead to substantial changes in
+the genetic makeup of a population of organisms and result in the
+formation of new species with different organism-level traits \citep{mcniven_genetic_2011,abbott_hybridization_2013,hedges_tree_2015,egan_experimental_2015,fisher_genetical_nodate}. 
+
+Most functionally-important genes encode proteins, which are the workhorses
+of molecular processes in living organisms \citep{alberts_protein_2002,whitford_proteins:_2005}.
+They catalyze chemical reactions, form the basis of structural scaffolds,
+transport ions and small molecules, act as signals, and regulate the
+function and production of other molecules \citep{alberts_protein_2002,whitford_proteins:_2005}.
+The emergent outcome of all the intertwining protein roles is ultimately
+manifested in the macroscopic phenotype of an organism. The vast array
+of protein functions necessary to construct organisms requires a large
+diversity of proteins, all of which are encoded by genes and integrated
+into the broader system. This framework imposes an extremely complex
+set of constraints that govern the way in which new traits---that can
+be “seen” by evolution---can be achieved. Thus, a molecular-level understanding
+of evolution is critical to understanding the process on larger scales. 
+
+\subsection{Evolutionary Biochemistry is a Powerful Tool for Understanding Biology}
+
+Most studies in traditional evolutionary biology have focused on understanding
+the genetics of evolution. Genetics provides a very useful tool to
+dissect the basis of evolutionary logic at the level of encoding architecture.
+A genetic framework has also been critical for developing a population-level
+understanding of evolution and creating useful mathematical models
+of evolutionary processes \citep{fisher_genetical_nodate,wright_evolution_1931,kimura_number_1964,crow_mathematics_1970,gillespie_simple_1983,gillespie_molecular_1984,nei_relative_1988,gillespie_population_1998,orr_population_2002,orr_probability_2005}.
+These models have made it possible to make predictions that can be
+tested experimentally, thus furthering our ability to understand evolutionary
+dynamics and outcomes \citep{hohenlohe_using_2010,romiguier_comparative_2014,mackay_epistasis_2014,tiffin_advances_2014,huang_population_2014,lynch_mutation_2016}.
+However, the rules that ultimately govern the inner workings of biological
+organisms are those of physics and chemistry \citep{berg_random_1993,sella_application_2005,dill_molecular_2010,kondo_reaction-diffusion_2010,dill_physical_2011,ghosh_role_2016}.
+
+Although the phenomenonological genetic ``laws'' that govern evolutionary
+processes are now largely understood, it is unclear how they are connected
+to the physical laws that govern the universe. This disconnect is
+one of the most prominent barriers to understanding molecular evolution.
+To truly understand how evolution works at the molecular level this
+relationship must be determined. The need to understand how physicochemical
+principles shape evolutionary outcomes has spawned the field of evolutionary
+biochemistry. This field seeks to understand the evolution of molecular
+phenotypes at the biochemical level and to relate the molecular phenotypes
+to implications for evolution at larger scales \citep{feeney_evolutionary_1969,harms_evolutionary_2013,harms_analyzing_2010}.
+Many pressing questions remain unanswered. Are there general evolutionary
+trends in biochemical features over very long time scales? How robust
+are protein functions to alterations in amino acid coding sequence
+and how does this robustness affect the maintenance of important traits
+during evolution? How do protein copies evolve after they are generated
+by gene duplication events? How do correlations between mutations
+in protein sequences shape evolutionary possibilities? Can we understand
+large-scale evolutionary processes in terms of simpler molecular-level
+constraints and rules? These questions are unified by the broader
+inquiry: how do physical rules shape the genotype-phenotype map? 
+
+The field of evolutionary biochemistry has rapidly expanded since
+its inception and provided a great deal of insight into evolution
+at the molecular level. A critical workhorse of evolutionary biochemistry
+has been ancestral sequence reconstruction (ASR) \citep{pauling_chemical_1963,harms_evolutionary_2013,harms_historical_2014,wheeler_thermostability_2016}.
+ASR is a statistical technique that utilizes a molecular phylogeny
+to infer the sequences of ancestral nodes \citep{liberles_ancestral_2007,hanson-smith_robustness_2010,harms_evolutionary_2013,eick_robustness_2017}.
+This technique has allowed many researches to directly assess ancestral
+protein activities using biochemical experiments, making it extremely
+powerful for characterizing evolutionary history \citep{harms_analyzing_2010,harms_evolutionary_2013,harms_historical_2014,wheeler_thermostability_2016}.
+In some cases, entire evolutionary trajectories---composed of historical
+substitutions---have been reconstructed \citep{bridgham_epistatic_2009,mckeown_evolution_2014,boucher_atomic-resolution_2014}.
+Relationships between protein structure, function, and evolutionary
+history have been characterized for a wide variety of proteins \citep{boucher_atomic-resolution_2014,anderson_intermolecular_2015,clifton_ancestral_2016,mckeown_evolution_2014,hart_thermodynamic_2014,harms_historical_2014,aakre_evolving_2015,eick_evolution_2012,wilson_using_2015,risso_hyperstability_2013}.
+Much has been learned about how biochemistry and biophysics constrain
+and shape protein evolution. Furthermore, evolutionary approaches
+have been used---with great success---to winnow the substitutions observed
+in extant proteins down to those that are important for a given biochemical
+function. For example, ASR was used to identify residues that are
+important for binding selectivity of the drug Gleevec by Ab1 and Src
+kinases \citep{wilson_using_2015}. 
+
+Detailed biochemical studies have also helped to clarify the importance
+of phenomena such as epistasis---the non-additivity of mutations \citep{harms_historical_2014,mackay_epistasis_2014,starr_epistasis_2016,sailer_detecting_2017}---and
+pleiotropy---in which proteins have roles in multiple distinct biological
+processes \citep{wolf_contribution_2006,wagner_gene_2008}---in determining
+evolutionary outcomes. These effects can reduce the evolutionary degrees
+of freedom allowed for a protein and result in effects such as historical
+contingency \citep{blount_historical_2008,harms_historical_2014}.
+For example, to evolve specificity for a new hormone ligand the glucocorticoid
+receptor required a permissive subtitution that alleviated the results
+of an otherwise deleterious functional substitution in the ligand
+binding site \citep{harms_historical_2014}. Studies that incorporate
+biochemical and functional work have futher demonstrated that the
+broader systemic architecture of the cellular environment can constrain
+the mechanisms by which biochemical changes underly organismal phenotypes
+\citep{des_marais_escape_2008,smith_gene_2011,smith_functional_2013,sorrells_intersecting_2015}.
+Certain systems have far greater constraints on the allowed biochemical
+changes. For example, the evolution of new flower colors in plants
+often requires both functional amino acid substitutions and regulatory
+changes, but the genes that are subject to these different types of
+changes vary depending on pleiotropic consequences \citep{streisfeld_altered_2009,streisfeld_genetic_2009,wessinger_lessons_2012,wessinger_predictability_2014}. 
+
+Evolutionary biochemistry has provided great insight into the molecular
+mechanisms of evolution. However, there is a key limitation that is
+prevalent in most previous work. Evolutionary biochemical studies
+have focused almost exclusively on proteins that exhibit very rigidly
+defined biochemical features. For example, the evolution of binding
+specificity has largely been studied in proteins such as enzymes and
+transcription factors that exhibit exquisite binding specificity for
+targets \citep{zarrinpar_optimization_2003,weinreich_darwinian_2006,copley_toward_2012,reinke_networks_2013}.
+These studies have revealed key patterns in the evolution of specificity,
+such as consistent occurrence of subfunctionlization and neofunctionalization
+following gene duplications \citep{boucher_atomic-resolution_2014,eick_evolution_2012,mckeown_evolution_2014,hudson_structure_2014,howard_ancestral_2014}.
+Similarly, studies of proteins binding to other biologically-relevant
+targets such as metal ions have traditionally considered very well-defined
+coordination systems, like those found in metalloproteases and Zinc
+finger proteins \citep{yannone_metals_2012}. However, many proteins
+do not exhibit such exquisite such exquisite biochemical properties
+\citep{ekman_what_2006,uchikoga_specificity_2016,bhattacharya_target_2004,chin_calmodulin:_2000,mitchell_evolutionary_2013,gfeller_multiple-specificity_2014,schreiber_protein_2011,copley_evolutionary_2015}.
+A large number of proteins bind to targets with low specificity and
+limited binding-site conservation. The biological relevance of the
+biochemical properties of these proteins is less well understood.
+It is thus unclear how well evolutionary studies of typical protein
+model systems translate to the broad array of proteins with plastic
+biochemical properties. 
+
+\subsection{The S100 Protein Family is a Useful Model System to Probe the Evolution
+of Low-specificity Proteins}
+
+This dissertation focuses on case studies in evolutionary biochemistry
+that address unanswered questions in molecular evolution. Chapter
+II consists of a literature review addressing the evidence for global
+trends in protein evolution over very long time scales. The remaining
+studies are unified by questions surrounding the evolution of protein-target
+interactions in proteins that have labile binding interfaces and/or
+highly-variable binding partners. Each case study dissects a specific
+aspect of evolution at the molecular level. The studies use a combination
+of experiments and computational analysis methods to address how biochemistry
+relates to broader questions in evolutionary biology. 
+
+Chapters III, IV, and V of this dissertation make extensive use of
+the S100 proteins as an experimental model system, which warrants
+an introduction to the protein family. The S100s are a large family
+of small, calcium-dependent signaling proteins \citep{donato_functions_2013,donato_intracellular_2003,zimmer_evolution_2013,heizmann_new_nodate,chazin_relating_2011}.
+The proteins are generally homodimeric and transduce signals via a
+calcium-ion driven conformational change \citep{santamaria-kisiel_calcium-dependent_2006,donato_functions_2013}.
+The family originated at the base of the Metazoan lineage and subsequently
+diversified over several hundred million years \citep{kraemer_structural_2008,zimmer_evolution_2013,wheeler_multiple_2016}.
+Mammals possess approximately thirty S100 genes including those encoding
+fusion proteins, in which the S100 acts as a single domain inside
+a larger domain architecture \citep{zimmer_evolution_2013,wheeler_multiple_2016,kizawa_s100_2011,gutknecht_identification_2017,contzler_cornulin_2005}.
+S100 proteins play a wide array of biological roles inside and outside
+of cells; including inflammatory signaling \citep{marenholz_s100_2004,leclerc_binding_2009},
+regulation of cell proliferation \citep{riuzzi_s100b_2011,zhu_s100a16_2016,cho_pentamidine_2016},
+antimicrobial activity \citep{damo_molecular_2013,hayden_high-affinity_2013},
+and control of apoptosis in some cell types \citep{tsoporis_s100b_2005,tsoporis_expression_2008}.
+The diversity of functions performed by the S100s is perhaps surprising
+considering the small size of the proteins, overall similarity of
+S100 amino acid sequences, and conservation of the folded form. However,
+the proteins have evolved an array of useful biochemical features
+that aid in carrying out biological functions. The proteins possess
+the ability to bind both calcium ions and other metal ions. Calcium-induced
+conformational changes result in the exposure of a hydrophobic path
+on the S100 dimer surface, which facilitates binding of target proteins
+\citep{santamaria-kisiel_calcium-dependent_2006,chazin_relating_2011}.
+The specificity of these hydrophobic binding sites varies among members
+of this family, although it has not been systematically studied prior
+to the work in this dissertation \citep{chazin_relating_2011,wafer_novel_2013}.
+It is sometimes presumed that this biochemical specificity contributes
+to the biological specialization of the S100s \citep{chazin_relating_2011}.
+This notion is supported by the fact that only some S100s are capable
+of binding to certain target proteins. For example, many S100s bind
+to and activate the inflammatory RAGE protein, but this not a universal
+trait of the family \citep{leclerc_binding_2009,cho_pentamidine_2016}.
+However, it has also been proposed that most functional specificity
+of S100 proteins is acheived by control of differential expression
+\citep{donato_functions_2013,donato_intracellular_2003,marenholz_s100_2004}. 
+
+The biological importance of binding to metal ions other than calcium---which
+occurs at different ion binding sites---has not been well studied. This
+dissertation primarily uses the S100s as a model to address evolutionary
+questions, because they possess a rich evolutionary history, diverse
+biochemical features, and exhibit low specificity for interaction
+partners. However, the evolutionary biochemical work presented in
+chapters III, IV, and V also sheds light on biologically-relevant
+aspects of the S100 family. The work provides several opportunities
+and resources for more biologically-oriented future studies. 
+
+\subsection{Chapter-by-chapter Breakdown of Dissertation}
+
+Chapter II comprises a literature review---co-written with Shion An
+Lim (SAL), Susan Marqusee (SM), and my advisor Michael J. Harms (MJH).
+The review addresses the question of whether or not proteins display
+global evolutionary trends over very long time scales. Two case studies
+are used as key examples of hypothesized trends: the gradual reduction
+of protein thermostability due to cooling of the Earth and the gradual
+increase in protein binding specificity due to continued specialization
+in ever-more-complex proteomes. Based on a thorough summary of evolutionary
+biochemistry literature, there does in fact appear to be some evidence
+for a gradual decline of thermostability on the billions-of-years
+time scale. However, there are still relatively few studies that probe
+this question. A more substantial body of evidence will need to be
+accumulated to make a strong argument for a global trend. The need
+for more experimental evidence is even more pronounced with regard
+to the question of broad trends in specificity. There are few studies
+that have addressed this question directly, and none to date that
+have done so using a truly unbiased experimental approach. This chapter
+provides an overview of the idea that there are global trends in protein
+evolution, makes a strong case that further experimental studies are
+needed to resolve the ongoing debates on this topic, and suggests
+strategies and experiments to maximize the current understanding in
+the field. The literature review presented in this chapter was published
+in the journal Current Opinions in Structural Biology \citep{wheeler_thermostability_2016}.
+
+Chapter III probes the evolutionary lability of a biologically-important
+biochemical feature. The S100 protein family is used as a model system
+to address this question. The phylogenetic history of the S100s is
+reconstructed to yield the highest-quality phylogeny of the S100 family
+to date. The history of transition metal binding in the S100s is then
+traced by mapping the results of detailed in vitro measurements of
+metal-ion binding onto this high-quality phylogeny. These results
+show that binding of transition metals is conserved across almost
+the entire S100 family, a more universal result than any previous
+study. By using mutagenesis studies it is further established that
+not all S100 proteins use the same amino acids or even the same site
+to bind metal ions. The binding of metal ions to a very early branching
+S100 protein is measured for the first time, which demonstrates that
+binding of transition metals is an ancestral feature of the S100 protein
+family. The results of this chapter speak to the surprising level
+of lability---at the amino acid level---of S100 protein metal binding
+sites; highlighting the fact that an ancestral molecular phenotype
+can be maintained at the overall level of behavior even while the
+underlying biochemical basis fluctuates over evolutionary time. The
+work in this chapter has been published as a research article in PLoS
+One, co-authored with Micah T. Donor (MTD), James S. Prell (JSP), and
+Michael J. Harms (LC Wheeler is the first author) \citep{wheeler_multiple_2016}. 
+
+Chapter IV delves further into the biophysics of metal binding in
+one particular member of the S100 protein family, S100A5. Little is
+known about the biological roles of S100A5. A previous publication
+indicated that the protein exhibits antagonism between the binding
+of Ca\textsuperscript{2+} and Cu\textsuperscript{2+} ions. This
+feature is unique amongst S100 proteins and has been considered one
+of the key features of S100A5. Proposed biological roles for the protein
+typically involve Ca\textsuperscript{2+}/Cu\textsuperscript{2+}
+antagonism. In chapter IV, it is demonstrated that antagonism between
+the binding of Ca\textsuperscript{2+} and Cu\textsuperscript{2+}
+is likely an artifact of the experiments done in the original study.
+Instead, it is shown that S100A5 can bind Ca\textsuperscript{2+}
+and Cu\textsuperscript{2+} independently, which changes the biological
+implications of metal binding to the protein. Furthermore, this chapter
+adds to the evolutionary story of metal binding by demonstrating another
+unique biochemical modification that has evolved in the S100 family.
+The work in this paper is currently in press as a research
+article in the journal BMC Biophysics, co-authored with Michael J.
+Harms. 
+
+Chapters V and VI address the evolution of binding specificity in
+two proteins following gene duplication from a common ancestor. Again,
+the S100 protein family proves to be a useful model system to address
+this question. The proteins S100A5 and S100A6 arose from a duplication
+approximately 300 million years ago. They subsequently evolved to
+have different protein-binding specificity, distinct expression patterns,
+and perform different cellular roles. Despite having distinct specificity,
+both proteins can be described as “sloppy” or having very low biochemical
+specificity. Previous studies have addressing the question of evolving
+specificity have used highly-specific proteins and small sets of known
+binding partners that are biased by a priori knowledge. For these
+reasons, previous studies are limited in understanding the evolution
+of specificity in low-specificity proteins. The sloppiness of S100s
+makes them an excellent system to study how binding specificity evolves
+in an inherently noisy low-specificity system. 
+
+Chapter V comprises a biochemical study of the evolution of peptide
+binding specificity in the S100A5-S100A5 clade. The oldest ancestor
+of S100A5 and S100A6 is resurrected using ancestral sequence reconstruction
+(ASR). Detailed calorimetric measurements of binding to a small set
+of peptide targets are then used to compare specificity across a set
+of orthologous and paralagous S100A5 and S100A6 proteins. It is demonstrated
+that peptide binding is driven primarily by the hydrophobic effect
+and that specificity is readily changed by the addition of mutants
+into the peptide binding interface. Furthermore, this work reveals
+that the specificity of S100A5 and S100A6 have undergone an apparent
+pattern of subfunctionilization. This result is striking, because
+it demonstrates that proteins with very low biochemical specificity
+can undergo similar patterns of evolution to proteins with high specificity.
+The work in this chapter is in review as a research article
+in the journal Biochemistry, co-authored with Jeremy A. Anderson (JAA),
+Anneliese J. Morrison (AJM), Caitlyn E. Wong (CEW), and Michael J.
+Harms. The submitted article has also been uploaded to the preprint
+server BioArxiv \citep{wheeler_conservation_2017}. 
+
+Chapter VI introduces new experimental and analysis pipelines for
+studying the evolution of specificity. An unbiased high-throughput
+approach, incorporating phage display and deep sequencing, is used
+to measure the binding of a large random peptide library to human
+S100A5, human S100A6, and the last common ancestor. Strikingly, the
+pipeline uncovers the lack of sequence-based rules that govern binding
+preferences of the S100 proteins. Instead, preferences appear to be
+defined by general physicochemical features of the peptide targets
+that can be used to generate a predictive model. The pipeline reveals
+overall patterns in the evolution of specificity along the S100A5
+and S100A6 lineages. S100A5 exhibits a strong signal of subfunctionilization,
+while S100A6 appears to differ little from the ancestor. This chapter
+highlights the importance of using unbiased approaches to study the
+evolution of specificity and speaks to the necessity of understanding
+different classes of protein features when probing molecular evolution.
+The work in this paper is being prepared as a research article that
+will be submitted to the journal MBE, co-authored with Michael J.
+Harms. 
+
+\subsection{Broader Impacts}
+
+The studies described in this dissertation contribute the broader
+evolutionary biochemistry literature by addressing a set of topics
+that have remained ambiguous. There has been a lack of studies addressing
+the evolution of biochemical features in proteins that have highly
+diverse sets of binding partners. Much of the experimental basis for
+understanding evolution of protein binding specificity has instead
+been based on proteins with exquisite specificity profiles \citep{zarrinpar_optimization_2003,stiffler_pdz_2007}.
+For example, enzymes, receptors, and transcription factors that have
+well-defined chemical binding preferences are workhorses of evolutionary
+biochemistry studies \citep{harms_historical_2014,boucher_atomic-resolution_2014,mckeown_evolution_2014,eick_evolution_2012}.
+The work presented in the following chapters probes key aspects of
+the evolution of binding specificity in proteins without such obvious
+rules. The S100 proteins act as an excellent model system to tackle
+these problems, because they have a variety of conserved biochemical
+behaviors that have nontheless been labile at the amino acid level
+during diversification of the family \citep{wheeler_multiple_2016}.
+In particular, the ability of the S100s to bind to a variety of transition
+metals with similar affinities, and the ability to bind extremely
+diverse short peptide regions of target proteins are used as exemplary
+biochemical features. 
+
+Studies on both the binding of metal ions and peptides reveal several
+key evolutionary trends that speak to the evolution of biochemical
+features in sloppy proteins such as the S100s. 1) a biochemical output---such
+as binding of transition metals or peptides with moderate afffinity---can
+be acheived and conserved despite extensive variability in amino acid
+ligands that form binding sites. 2) Specificity can nontheless be
+achieved and conserved in proteins with highly diverse binding partners
+and labile binding sites. 3) Evolutionary patterns in proteins with
+low biochemical specificity nontheless resemble those observed in
+high-specificity proteins. 4) Evolutionary patterns can differ along
+duplicate lineages following gene duplication. 5) Unbiased high-throughput
+techniques are essential for inferring historical patterns of specificity
+in proteins with large diverse sets of binding partners. These observations
+contribute substantially to our understanding of what types of biochemical
+features are important during the evolution of proteins that do not
+meet the criterion of exquisite binding specificity. Despite relaxed
+binding rules, flexible binding sites, and highly-diverse binding
+partners these proteins nonetheless exhibit evolutionary patterns
+that are reminiscent of those the field has come to expect from canonical
+examples. This key result suggests that proteins such as the S100s---despite
+the variability of there biochemical behaviors---are therefore operating
+under similar rules to other proteins. Therefore, proteins with highly
+variable binding partners and labile binding sites do not necessarily
+represent a fundamentally different class of proteins---subject to special
+evolutionary constraints---but rather are similarly constrained by evolutionary
+and biochemical forces in a way that can be understood by careful
+experimentation.

@@ -1,0 +1,119 @@
+\select@language {UKenglish}
+\contentsline {chapter}{\numberline {I.}\uppercase {Introduction}}{1}
+\contentsline {subsection}{ Evolution is the Driving Force of Biological Diversity}{1}
+\contentsline {subsection}{ Evolutionary Biochemistry is a Powerful Tool for Understanding Biology}{2}
+\contentsline {subsection}{ The S100 Protein Family is a Useful Model System to Probe the Evolution of Low-specificity Proteins}{5}
+\contentsline {subsection}{ Chapter-by-chapter Breakdown of Dissertation}{7}
+\contentsline {subsection}{ Broader Impacts}{11}
+\contentsline {chapter}{\numberline {II.}\uppercase {Thermostability and Specificity of Ancient Proteins: Assessing the Evidence for Global Trends}}{14}
+\contentsline {section}{ Author Contributions}{14}
+\contentsline {section}{ Abstract}{14}
+\contentsline {section}{ Introduction}{15}
+\contentsline {section}{ Reconstructed Precambrian Ancient Proteins}{17}
+\contentsline {section}{ Trends in Thermostability Are Complex}{20}
+\contentsline {section}{ Can Reconstruction Errors Inflate Ancestral Thermostability?}{21}
+\contentsline {section}{ A Trend from Promiscuous to Specific is Not Yet Established}{23}
+\contentsline {section}{ Conclusions}{25}
+\contentsline {section}{ Bridge to Chapter III}{26}
+\contentsline {chapter}{\numberline {III.}\uppercase {Multiple Evolutionary Origins of Ubiquitous Cu2+\newline and Zn2+ Binding in the S100 Protein Family}}{28}
+\contentsline {section}{ Author Contributions}{28}
+\contentsline {section}{ Abstract}{28}
+\contentsline {section}{ Introduction}{29}
+\contentsline {section}{ Results}{32}
+\contentsline {subsection}{ The S100 family arose in the ancestor of Olfactores}{32}
+\contentsline {subsection}{ Model-based phylogenetic approaches reveal well-supported clades}{32}
+\contentsline {subsection}{ Synteny and taxonomic distribution further support relationships among S100 proteins}{36}
+\contentsline {subsection}{ Transition metal binding is nearly universal across the family}{39}
+\contentsline {subsection}{ Early-diverging tunicate S100s bind transition metals}{43}
+\contentsline {subsection}{ Transition metal binding occurs at independently evolved binding sites}{46}
+\contentsline {section}{ Discussion}{49}
+\contentsline {subsection}{ Transition metal binding occurs at independently evolved binding sites}{49}
+\contentsline {subsection}{ Expansion of the family}{51}
+\contentsline {section}{ Conclusion}{53}
+\contentsline {section}{ Materials and Methods}{54}
+\contentsline {subsection}{ Sequence Set}{54}
+\contentsline {subsection}{ Phylogenetic Trees}{55}
+\contentsline {subsection}{ Molecular cloning and Protein Expression/Purification}{55}
+\contentsline {subsection}{ Protein characterization}{57}
+\contentsline {subsection}{ Native electrospray ionization time-of-flight mass spectrometry (nano ESI-MS)}{59}
+\contentsline {subsection}{ Sedimentation velocity analytical ultracentrifugation}{61}
+\contentsline {subsection}{ Homology model}{61}
+\contentsline {section}{ Bridge to Chapter IV}{62}
+\contentsline {chapter}{\numberline {IV.}\uppercase {HUMAN S100A5 BINDS CA2+ AND CU2+ INDEPENDENTLY}}{64}
+\contentsline {section}{ Author Contributions}{64}
+\contentsline {section}{ Abstract}{64}
+\contentsline {section}{ Background}{65}
+\contentsline {section}{ Results}{67}
+\contentsline {subsection}{ Ca\textsuperscript {2+} and Cu\textsuperscript {2+} binding to S100A5 are not antagonistic}{67}
+\contentsline {subsection}{ S100A5 is prone to oligomerization and metal-driven aggregation}{71}
+\contentsline {subsection}{ Binding of Ca\textsuperscript {2+} and Cu\textsuperscript {2+} induce reversible changes in S100A5 secondary structure}{74}
+\contentsline {section}{ Discussion}{75}
+\contentsline {section}{ Conclusions}{79}
+\contentsline {section}{ Methods}{79}
+\contentsline {subsection}{ Protein expression and purification}{79}
+\contentsline {subsection}{ Isothermal titration calorimetry}{80}
+\contentsline {subsection}{ Sedimentation velocity analytical ultracentrifugation}{81}
+\contentsline {subsection}{ Circular dichroism spectroscopy}{82}
+\contentsline {section}{ Bridge to Chapter V}{83}
+\contentsline {chapter}{\numberline {V.}\uppercase {Conservation of peptide binding specificity in S100A5 and S100A6}}{85}
+\contentsline {section}{ Author Contributions}{85}
+\contentsline {section}{ Abstract}{85}
+\contentsline {section}{ Introduction}{86}
+\contentsline {section}{ Results}{88}
+\contentsline {subsection}{ Human S100A5 and S100A6 interact with diverse peptides at the same binding site}{88}
+\contentsline {subsection}{ The S100A5 and S100A6 clades exhibit conserved binding specificity}{91}
+\contentsline {subsection}{ Specificity evolved from an apparently promiscuous ancestor}{96}
+\contentsline {subsection}{ Binding specificity can be changed with a single mutation}{97}
+\contentsline {section}{ Discussion}{100}
+\contentsline {subsection}{ Low specificity through a hydrophobic interface}{101}
+\contentsline {subsection}{ S100s may allow the evolution of new calcium regulation}{102}
+\contentsline {subsection}{ Evolution of low--specificity proteins}{103}
+\contentsline {section}{ Materials and Methods}{105}
+\contentsline {subsection}{ Molecular cloning, expression and purification of proteins}{105}
+\contentsline {subsection}{ Isothermal titration calorimetry}{107}
+\contentsline {subsection}{ 2D HSQC NMR experiments}{108}
+\contentsline {subsection}{ Far--UV CD spectroscopy}{108}
+\contentsline {subsection}{ Preparation of biotinylated proteins for phage display}{109}
+\contentsline {subsection}{ Phage display panning }{110}
+\contentsline {subsection}{ Phylogenetics and ancestral reconstruction}{112}
+\contentsline {section}{ Bridge to Chapter VI}{114}
+\contentsline {chapter}{\numberline {VI.}\uppercase {Evolution of increased binding specificity in\newline S100A5}}{116}
+\contentsline {section}{ Author Contributions}{116}
+\contentsline {section}{ Abstract}{116}
+\contentsline {section}{ Introduction}{117}
+\contentsline {section}{ Results}{120}
+\contentsline {subsection}{ Estimating peptide interactions by phage display}{120}
+\contentsline {subsection}{ Supervised machine learning allows prediction of binding}{124}
+\contentsline {subsection}{ Venn diagrams can be estimated using MCMC}{129}
+\contentsline {subsection}{ hA5 is more specific than hA6 or the ancestor}{130}
+\contentsline {section}{ Discussion}{132}
+\contentsline {subsection}{ Re-evaluating the empirical support for the increasing specificity hypothesis}{133}
+\contentsline {subsection}{ Quantifying the evolution of specificity informs S100 biology and biochemistry}{135}
+\contentsline {subsection}{ Future directions}{136}
+\contentsline {subsection}{ Implications for protein engineering}{138}
+\contentsline {section}{ Conclusions}{138}
+\contentsline {section}{ Materials and Methods}{139}
+\contentsline {subsection}{ Molecular cloning, expression and purification in of S100 proteins}{139}
+\contentsline {subsection}{ Isothermal Titration Calorimetry}{140}
+\contentsline {subsection}{ Preparation of biotinylated proteins for phage display}{141}
+\contentsline {subsection}{ Phage display}{142}
+\contentsline {subsection}{ Preparation of deep sequencing libraries}{144}
+\contentsline {subsection}{ Phage display analysis pipeline}{144}
+\contentsline {subsection}{ Identifying the read count cutoff}{146}
+\contentsline {subsection}{ Measuring enrichment values}{147}
+\contentsline {subsection}{ Principle Component Analysis}{149}
+\contentsline {subsection}{ Incorporating uncertainty into an estimate of a Venn diagram}{149}
+\contentsline {section}{ Bridge to Chapter VII}{152}
+\contentsline {chapter}{\numberline {VII.}\uppercase {SUMMARY AND CONCLUDING REMARKS}}{154}
+\contentsline {subsection}{ Contributions to the field of evolutionary biochemistry }{154}
+\contentsline {subsection}{ Limitations and future directions}{155}
+ \pagebreak [3]\vspace {3ex} \nopagebreak \noindent {APPENDICES}\nopagebreak 
+\contentsline {chapter}{\number@appendix {1}{A.} \uppercase {SUPPLEMENTAL MATERIAL FOR CHAPTER III}}{158}
+\contentsline {section}{ Supplemental Figures}{158}
+\contentsline {chapter}{\number@appendix {2}{B.} \uppercase {SUPPLEMENTAL MATERIAL FOR CHAPTER IV}}{166}
+\contentsline {section}{ Supplemental Figures}{166}
+\contentsline {chapter}{\number@appendix {3}{C.} \uppercase {SUPPLEMENTAL MATERIAL FOR CHAPTER V}}{168}
+\contentsline {section}{ Supplemental Figures}{168}
+\contentsline {chapter}{\number@appendix {4}{D.} \uppercase {SUPPLEMENTAL MATERIAL FOR CHAPTER VI}}{177}
+\contentsline {section}{ Supplemental Figures}{177}
+\contentsline {chapter}{REFERENCES CITED}{184}

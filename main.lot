@@ -1,0 +1,13 @@
+\select@language {UKenglish}
+\contentsline {table}{\numberline {1}{\ignorespaces Fit parameters from pytc Bayesian fits}}{71}
+\contentsline {table}{\numberline {2}{\ignorespaces Protein binding model statistics}}{126}
+\contentsline {table}{\numberline {3}{\ignorespaces Binding of 12-mer phage display peptides does not depend\newline on solubilizing flanks}}{168}
+\contentsline {table}{\numberline {4}{\ignorespaces Parameters for binding of A6cons to S100A5 and S100A6}}{172}
+\contentsline {table}{\numberline {5}{\ignorespaces Parameters for binding of A5cons to S100A5 and S100A6}}{173}
+\contentsline {table}{\numberline {6}{\ignorespaces Parameters for binding of NCX1 to S100A5 and S100A6}}{174}
+\contentsline {table}{\numberline {7}{\ignorespaces Parameters for binding of SIP to S100A5 and S100A6}}{175}
+\contentsline {table}{\numberline {8}{\ignorespaces Thermodynamic parameters for binding of the A5cons and SIP peptides to hA5 ancestral reversion mutants}}{175}
+\contentsline {table}{\numberline {9}{\ignorespaces Accession numbers of S100 proteins used to build the multiple sequence alignment}}{176}
+\contentsline {table}{\numberline {10}{\ignorespaces Number of sequencing reads for each sample}}{177}
+\contentsline {table}{\numberline {11}{\ignorespaces Features used in for supervised machine learning}}{182}
+\contentsline {table}{\numberline {12}{\ignorespaces Predicted $E$ and measured binding constants for peptides}}{183}
