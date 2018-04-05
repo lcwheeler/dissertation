@@ -4,7 +4,7 @@
 
 &copy; 2017 Lucas Clayton Wheeler
 
-To render a PDF version download and uncompress the .zip archive. Navigate to the /dissertation directory and 
+To render a PDF version clone the dissertation repo. Navigate to the dissertation repo directory and 
 run the following command:
 
 ```pdflatex main.tex``` 
