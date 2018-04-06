@@ -4,7 +4,7 @@
 
 &copy; 2017 Lucas Clayton Wheeler
 
-To render a PDF version clone the this repo, navigate to the dissertation directory, and 
+To render a PDF version clone this repo, navigate to the dissertation directory, and 
 run the following command:
 
 ```pdflatex main.tex``` 
